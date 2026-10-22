@@ -176,6 +176,7 @@ O projeto segue fundamentos importantes de arquitetura:
 - `spring-boot-starter-test`, `spring-security-test`
 - `Swagger UI` para testes manuais da API
 
+<!-- 
 ### 🧩 Ícones das stacks
 
 <div align="center">
@@ -189,7 +190,7 @@ O projeto segue fundamentos importantes de arquitetura:
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="44" height="44" alt="JWT" />
   <img src="https://cdn.simpleicons.org/dbeaver/382923" width="44" height="44" alt="DBeaver" />
 </div>
-
+-->
 ---
 
 ## 🗂️ Estrutura do Projeto
